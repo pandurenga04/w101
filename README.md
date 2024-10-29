@@ -1,1 +1,1 @@
-# w101
+# simple registration from using html
